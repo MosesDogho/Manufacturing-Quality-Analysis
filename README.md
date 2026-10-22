@@ -1,6 +1,8 @@
 # Manufacturing Quality Performance Dashboard | Excel
 An interactive Excel business-intelligence practice project analyzing production output and defects across two manufacturing lines. The dashboard turns production records into quality KPIs, highlights lines that need attention, and compares results with a management target.
 > **Data disclosure:** This workbook contains a small **practice/demo manufacturing dataset**, not verified operational records from a real employer. The **2% defect-rate target is hypothetical**, selected to demonstrate threshold-based reporting.
+## Dashboard Preview
+![Manufacturing Quality Dashboard](Manufacturing_Quality_Dashboard.png)
 ## Business Questions
 How many units did each line produce?
 What proportion of each line's units were defective?
